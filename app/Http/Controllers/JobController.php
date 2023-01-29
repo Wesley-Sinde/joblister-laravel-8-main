@@ -15,7 +15,7 @@ class JobController extends Controller
         return view('job.index');
     }
 
-    //api route
+    //api route 
     public function search(Request $request)
     {
         if ($request->q) {

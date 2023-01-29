@@ -88,7 +88,7 @@
               @endforeach
               </div>
             </div>
-          </div>
+          </div> 
 
             <div class="card mb-4 job-by-category">
               <div class="card-header">
